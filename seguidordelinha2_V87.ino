@@ -4,6 +4,9 @@
  
  This code example is in the public domain. 
  http://www.botnroll.com
+ 
+ Revised by Ricardo Fitas on the 3rd March 2017
+ 
 */
  
 #include <SPI.h>                   // required by BnrOne.cpp
